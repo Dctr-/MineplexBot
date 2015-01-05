@@ -174,13 +174,13 @@
         return m;
     };
 
-    var botCreator = "Dctr";
+    var botCreator = "Thegreat1200";
     var botCreatorIDs = [];
 
     var basicBot = {
         version: "2.3",
         status: false,
-        name: "MineplexBot",
+        name: "thegreat1200Bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Dctr/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/loh0_w",
@@ -189,7 +189,7 @@
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
-            botName: "MineplexBot",
+            botName: "thegreat1200Bot",
             language: "english",
             chatLink: "https://rawgit.com/Dctr/basicBot/master/lang/en.json",
             maximumAfk: 120,
