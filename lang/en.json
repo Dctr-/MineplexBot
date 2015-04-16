@@ -11,7 +11,7 @@
     "welcome": "/me Welcome %%NAME%%",
     "welcomeback": "/me Welcome back, %%NAME%%",
     "songknown": "/me :repeat: This song has been played %%PLAYS%% time(s) in the last %%TIMETOTAL%%, last play was %%LASTTIME%% ago. :repeat:",
-    "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, you need permission to play longer songs.",
+    "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, please choose a shorter song before your next turn.",
     "permissionownsong": "/me :up: @%%NAME%% has permission to play their own production!",
     "isblacklisted": "/me This track is on the %%BLACKLIST%% blacklist! Skipping...",
 
